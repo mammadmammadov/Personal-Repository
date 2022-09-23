@@ -1,6 +1,6 @@
-**#About Me**
+**About Me**
 
-**🏫 Sophomore year IT student at ADA University**
+**🏫Sophomore year IT student at ADA University**
 
 📈New Competitive Programming Enthusiast: <br><br>
     1️⃣ https://www.eolymp.com/en/users/mammad_ <br>
@@ -14,5 +14,4 @@
 
 💻 Interested in Full Stack Web/Mobile Development
 
-**Technologies I Use**
 
