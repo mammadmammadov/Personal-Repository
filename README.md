@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="150"/>
 </div>
+<br>
 
 **🏫Sophomore year IT student at ADA University**
 
