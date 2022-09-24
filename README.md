@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="150"/>
 </div>
 
 **🏫Sophomore year IT student at ADA University**
