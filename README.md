@@ -2,22 +2,7 @@
   <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="150"/>
 </div>
 <br>
-
-**🏫Sophomore year IT student at ADA University**
-
-📈New Competitive Programming Enthusiast: <br><br>
-    <ul style="list-style: none;">1️⃣ https://www.eolymp.com/en/users/mammad03  <br>
-    2️⃣ https://www.codechef.com/users/mammad03 <br>
-    3️⃣ https://atcoder.jp/users/mammad_/ <br>
-    4️⃣ https://www.hackerrank.com/mmammadov14194 <br>
-    5️⃣ https://www.hackerearth.com/@mammad1 <br>
-    6️⃣ https://leetcode.com/mammad_/ </ul>
-		
-➗ Math Lover <br>
-
-💻 Interested in Full Stack Web/Mobile Development
-
-<div id="badges">
+<div id="badges" align="center">
 	<a href="https://t.me/mammedd">
 		  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 	</a>
@@ -29,5 +14,25 @@
 	</a>
 	
 </div>
+<br>
+
+**🏫Sophomore year IT student at ADA University**
+
+**📈**New Competitive Programming Enthusiast: <br><br>
+    <ul style="list-style: none;">1️⃣ https://www.eolymp.com/en/users/mammad03  <br>
+    2️⃣ https://www.codechef.com/users/mammad03 <br>
+    3️⃣ https://atcoder.jp/users/mammad_/ <br>
+    4️⃣ https://www.hackerrank.com/mmammadov14194 <br>
+    5️⃣ https://www.hackerearth.com/@mammad1 <br>
+    6️⃣ https://leetcode.com/mammad_/ </ul>
+		
+
+💻 Interested in Full Stack Web/Mobile Development
+
+:fire: **My Stats:**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mammadmammadov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
