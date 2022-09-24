@@ -18,7 +18,7 @@
 
 **🏫Sophomore year IT student at ADA University**
 
-**📈****New Competitive Programming Enthusiast: <br><br>
+**📈New Competitive Programming Enthusiast: <br><br>
     <ul style="list-style: none;">1️⃣ https://www.eolymp.com/en/users/mammad03  <br>
     2️⃣ https://www.codechef.com/users/mammad03 <br>
     3️⃣ https://atcoder.jp/users/mammad_/ <br>
