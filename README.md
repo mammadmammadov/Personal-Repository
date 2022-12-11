@@ -36,7 +36,7 @@
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mammadmammadov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 	
-![](https://komarev.com/ghpvc/?username=mammadmammadov)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 	
 </h2>
 
