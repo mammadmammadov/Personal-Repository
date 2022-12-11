@@ -34,7 +34,7 @@
 
 
 <h2>:fire: My Stats<br><br>
-	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mammadmammadov)](https://github.com/anuraghazra/github-readme-stats)	
 
 	
 
