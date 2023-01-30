@@ -28,7 +28,7 @@
     3️⃣ https://atcoder.jp/users/mammad_/ <br>
     4️⃣ https://www.hackerrank.com/mmammadov14194 <br>
     5️⃣ https://www.hackerearth.com/@mammad1 <br>
-    6️⃣ https://leetcode.com/mammad_/ </ul>
+    6️⃣ https://leetcode.com/mammed/ </ul>
 	</h2>
 		
 
