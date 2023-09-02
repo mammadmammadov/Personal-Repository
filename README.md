@@ -18,10 +18,7 @@
 <br>
 <h1 id="hello" align="center"> Hello World!🖐️ I am Mammad!</h1>
 
-<h2>🏫Sophomore IT student at ADA University</h2>
-<h2>
-:iphone: Android Development Learner
-	</h2><b2>
+<h2>🏫Junior IT student at ADA University</h2>
 <h2> :rocket: Problem Solving Enthusiast<br><br>
     <ul style="list-style: none;">1️⃣ https://www.eolymp.com/en/users/mammad03  <br>
     2️⃣ https://www.codechef.com/users/mammad03 <br>
