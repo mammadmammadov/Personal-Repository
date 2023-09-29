@@ -20,16 +20,6 @@
 
 <h2>🏫Junior IT student at ADA University</h2>
 <h2> :rocket: Problem Solving Enthusiast<br><br>
-    <ul style="list-style: none;">1️⃣ https://www.eolymp.com/en/users/mammad03  <br>
-    2️⃣ https://www.codechef.com/users/mammad03 <br>
-    3️⃣ https://atcoder.jp/users/mammad_/ <br>
-    4️⃣ https://www.hackerrank.com/mmammadov14194 <br>
-    5️⃣ https://www.hackerearth.com/@mammad1 <br>
-    6️⃣ https://leetcode.com/mammed/ </ul>
-	</h2>
-		
-
-
 <h2>:fire: My Stats<br><br>
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mammadmammadov&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)	
