@@ -1,5 +1,3 @@
-
-![snake gif](https://github.com/mammadmammadov/mammadmammadov/blob/output/github-contribution-grid-snake.gif)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZkVIzvAEUA4ISI6WpO/giphy.gif" width="190"/>
 	
