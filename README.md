@@ -18,7 +18,7 @@
 <br>
 <h1 id="hello" align="center"> Hello World!🖐️ I am Mammad!</h1>
 
-<h2>🏫Junior IT student at ADA University currently immersed in the field of Data</h2>
+<h2>Data Science Enthusiast</h2>
 <h2>:rocket: Problem Solving Enthusiast</h2>
 <h2>:fire: My Stats<br><br>
 	
